@@ -1,0 +1,16 @@
+﻿body {
+}
+.mint {
+    left: 15px;
+    position: relative;
+    background: aquamarine;
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-bottom: 15px
+}
+.beige {
+    background: bisque;
+    width: 100%;
+    clear:both;
+}

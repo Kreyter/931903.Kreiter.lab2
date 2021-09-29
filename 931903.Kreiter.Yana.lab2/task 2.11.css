@@ -1,0 +1,11 @@
+﻿body {
+}
+.blue{
+    height:265px;
+    width:100%;
+    background-color: aqua;
+    border: solid 1px green;
+}
+img{
+    float:right;
+}

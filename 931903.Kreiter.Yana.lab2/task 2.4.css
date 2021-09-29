@@ -1,0 +1,8 @@
+﻿body {
+}
+.blue {
+    width: 100%;
+    max-width: 600px;
+    background-color: blue;
+    margin: 0 auto;
+}

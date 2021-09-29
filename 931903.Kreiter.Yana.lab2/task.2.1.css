@@ -1,0 +1,47 @@
+﻿body {
+}
+
+.head {
+    border: none;
+    background-color: #EAEAEA;
+    text-align: left;
+    color: black;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+}
+.green {
+    width: 200px;
+    background-color: #C8FC98;
+    height: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    line-height: 1.2rem;
+    float:left; 
+}
+.white {
+    height: 100%;
+    width: contain;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: solid;
+    border-color: white;
+}
+.black{
+    border: none;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-stretch: extra-expanded;
+    font-size: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

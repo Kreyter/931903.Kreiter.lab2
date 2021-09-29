@@ -1,0 +1,13 @@
+﻿body {
+}
+.mint {
+    display: inline-block;
+    width: 165px;
+    height: 85px;
+    margin: 10px;
+    background-color: aquamarine;
+}
+
+.beige {
+    background-color: bisque;
+}

@@ -1,0 +1,21 @@
+﻿body {
+}
+.aqua {
+    position: relative;
+    background: aqua;
+    width: 100%;
+    border: solid 2px forestgreen;
+    display: inline-block;
+}
+.gray {
+    display: block;
+    background-color: darkgrey;
+    width: 73%;
+    float: left;
+}
+.beige {
+    background: bisque;
+    width: 400px;
+    margin-right: 5px;
+    float: left;
+}

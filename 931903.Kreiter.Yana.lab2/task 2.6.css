@@ -1,0 +1,15 @@
+﻿body {
+}
+.white {
+    width: 100%;
+    max-width: 500px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.blue {
+    width: 380px;
+    border: 10px solid blue;
+    margin: 0 auto;
+    padding: 50px 50px 50px 50px;
+}
