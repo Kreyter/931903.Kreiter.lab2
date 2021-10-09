@@ -1,0 +1,32 @@
+﻿body {
+}
+.beige {
+    position: absolute;
+    background: bisque;
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.aqua {
+    position: relative;
+    background: aqua;
+    max-width: 1600px;
+    height: 100%;
+}
+.gray{
+    position:relative;
+    display: block;
+    background:darkgray;
+    height:inherit;
+    left:200px;
+}
+.green{
+    border: none;
+    background-color: limegreen;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
